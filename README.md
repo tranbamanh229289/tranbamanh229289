@@ -38,7 +38,7 @@ My interested fields including: Fullstack Web || Cross-platform Mobile App ||  M
 </a>
 
 <a href="https://scikit-learn.org/stable/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="numpy"></code>
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sklearn"></code>
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
@@ -60,6 +60,11 @@ My interested fields including: Fullstack Web || Cross-platform Mobile App ||  M
 <a href="https://spring.io/projects/spring-boot" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring"></code>
 </a>
+
+<a href="https://www.elastic.co/es/" target="_blank">
+    <code><img height="30" src="https://plugins.jetbrains.com/files/16111/151977/icon/pluginIcon.png" alt="elasticsearch"></code>
+</a>
+
 
 <a href="https://getbootstrap.com/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="spring"></code>
