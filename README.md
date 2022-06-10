@@ -33,6 +33,10 @@ My interested fields including: Fullstack Web || Cross-platform Mobile App ||  M
 </a>
     
 ## :wrench: Favorite Framework 
+<a href="https://numpy.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy"></code>
+</a>
+
 <a href="https://reactjs.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"></code>
 </a>
@@ -52,6 +56,11 @@ My interested fields including: Fullstack Web || Cross-platform Mobile App ||  M
 <a href="https://spring.io/projects/spring-boot" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring"></code>
 </a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="spring"></code>
+</a>
+
 
 ## :wrench: Favorite Database
 
