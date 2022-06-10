@@ -51,6 +51,31 @@ Here are some ideas to get you started:
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux"></code>
 </a>
 
+<a href="https://laravel.com/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel"></code>
+</a>
+
+<a href="https://spring.io/projects/spring-boot" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring"></code>
+</a>
+
+## :wrench: Favorite Database
+
+<a href="https://www.mysql.com/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"></code>
+</a>
+
+<!-- <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="sqlserver"></code>
+</a> -->
+
+<a href="https://www.postgresql.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"></code>
+</a>
 
 
 
