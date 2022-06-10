@@ -63,7 +63,7 @@ My interested fields including: Fullstack Web || Cross-platform Mobile App || Se
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"></code>
 </a>
 
-<!-- <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
+ <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="sqlserver"></code>
 </a>
 
