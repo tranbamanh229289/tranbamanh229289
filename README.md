@@ -104,5 +104,6 @@ My interested fields including: Fullstack Web || Mobile App ||  Machine learning
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku"></code>
 </a>
 
+<img height="300" src="https://icdn.dantri.com.vn/thumb_w/640/2017/14-1483619825296.jpg">
 
 
