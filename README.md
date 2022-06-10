@@ -62,7 +62,7 @@ My interested fields including: Fullstack Web || Cross-platform Mobile App ||  M
 </a>
 
 <a href="https://www.elastic.co/es/" target="_blank">
-    <code><img height="30" src="https://plugins.jetbrains.com/files/16111/151977/icon/pluginIcon.png" alt="elasticsearch"></code>
+    <code><img height="30" src="https://neralnetwork.files.wordpress.com/2017/03/elasticsearch-logo-color-v-jpg.png" alt="elasticsearch"></code>
 </a>
 
 
