@@ -14,3 +14,43 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## :wrench: Favorite Languages 
+
+<a href="https://www.python.org/" target="_blank">
+    <code><img height="30" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code></a>
+
+<a href="https://www.java.com" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java"></code>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code></a>
+    
+<a href="https://www.w3schools.com/css/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3"></code>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
+</a>
+    
+## :wrench: Favorite Framework 
+<a href="https://reactjs.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"></code>
+</a>
+
+<a href="https://vuejs.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue"></code>
+</a>
+
+<a href="https://react-redux.js.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux"></code>
+</a>
+
+
+
+
