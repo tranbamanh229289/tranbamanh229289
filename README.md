@@ -1,6 +1,6 @@
 <h1 align="center" >Hi there 👋 I'm Manh Tran </h1>
 
-<!-- 
+
 **tranbamanh229289/tranbamanh229289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 Looking for an developer / engineer , contact me **manh.tb183589@sis.hust.edu.vn**
 
 My interested fields including: Fullstack Web || Cross-platform Mobile App || Search Information || Nature Language Processing
- -->
+
 ## :wrench: Favorite Languages 
 
 <a href="https://www.python.org/" target="_blank">
