@@ -1,6 +1,6 @@
 <h1 align="center" >Hi there 👋 I'm Manh Tran </h1>
 
-<!--
+<!-- 
 **tranbamanh229289/tranbamanh229289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -8,14 +8,12 @@ Here are some ideas to get you started:
 - 🔭 I’m studying at Hanoi University of Science and Technology
 - 👯 Looking for an developer / engineer , contact me **manh.tb183589@sis.hust.edu.vn**
 
-
 My interested fields including: Fullstack Web || Cross-platform Mobile App || Search Information || Nature Language Processing
-
+ -->
 ## :wrench: Favorite Languages 
 
 <a href="https://www.python.org/" target="_blank">
     <code><img height="30" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code></a>
-
 <a href="https://www.java.com" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java"></code>
 </a>
@@ -23,7 +21,6 @@ My interested fields including: Fullstack Web || Cross-platform Mobile App || Se
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript"></code>
 </a>
-
 <a href="https://www.typescriptlang.org/" target="_blank">
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code></a>
     
@@ -68,7 +65,7 @@ My interested fields including: Fullstack Web || Cross-platform Mobile App || Se
 
 <!-- <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="sqlserver"></code>
-</a> -->
+</a>
 
 <a href="https://www.postgresql.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"></code>
