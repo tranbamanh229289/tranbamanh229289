@@ -5,15 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m studying at Hanoi University of Science and Technology
+- 👯 Looking for an developer / engineer , contact me **manh.tb183589@sis.hust.edu.vn**
+
+
+My interested fields including: Fullstack Web || Cross-platform Mobile App || Search Information || Nature Language Processing
+
 ## :wrench: Favorite Languages 
 
 <a href="https://www.python.org/" target="_blank">
@@ -75,6 +72,21 @@ Here are some ideas to get you started:
 
 <a href="https://www.postgresql.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"></code>
+</a>
+
+## :wrench: Favorite Tool
+
+<a href="https://www.docker.com/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker"></code>
+</a>
+<a href="https://kubernetes.io/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes"></code>
+</a>
+<a href="https://aws.amazon.com/?nc1=h_ls" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws"></code>
+</a>
+<a href="https://www.heroku.com/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku"></code>
 </a>
 
 
