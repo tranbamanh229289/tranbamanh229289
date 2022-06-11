@@ -132,3 +132,12 @@ My interested fields including: Fullstack Web || Mobile App ||  Machine learning
 
 <code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/1803385-Albert-Einstein-Quote-Cherish-the-questions-for-the-answers-keep.jpg" alt="secret"></code>
 
+<code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/2212725-Albert-Einstein-Quote-If-people-are-good-only-because-they-fear.jpg" alt="secret"></code>
+
+<code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/3780646-Albert-Einstein-Quote-The-true-value-of-a-human-being-can-be-found.jpg" alt="secret"></code>
+
+<code><img height="400" src="https://quotefancy.com/media/wallpaper/1600x900/444367-Albert-Einstein-Quote-The-only-way-to-escape-the-personal.jpg" alt="secret"></code>
+
+<code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/2056474-Albert-Einstein-Quote-We-know-from-daily-life-that-we-exist-for.jpg" alt="secret"></code>
+
+
