@@ -123,3 +123,12 @@ My interested fields including: Fullstack Web || Mobile App ||  Machine learning
 <code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/356524-Albert-Einstein-Quote-Only-a-life-lived-for-others-is-a-life.jpg" alt="secret"></code>
 
 <code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/442843-Albert-Einstein-Quote-God-does-not-play-dice.jpg" alt="secret"></code>
+
+<code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/2145858-Albert-Einstein-Quote-The-best-design-is-the-simplest-one-that.jpg" alt="secret"></code>
+
+<code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/443907-Albert-Einstein-Quote-Try-first-to-be-a-man-of-value-success-will.jpg" alt="secret"></code>
+
+<code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/442766-Albert-Einstein-Quote-Compassionate-people-are-geniuses-in-the-art.jpg" alt="secret"></code>
+
+<code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/1803385-Albert-Einstein-Quote-Cherish-the-questions-for-the-answers-keep.jpg" alt="secret"></code>
+
