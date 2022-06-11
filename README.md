@@ -114,3 +114,6 @@ My interested fields including: Fullstack Web || Mobile App ||  Machine learning
 
 <code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/4745308-Albert-Einstein-Quote-More-the-knowledge-lesser-the-Ego-lesser-the.jpg" alt="secret"></code>
 
+<code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/7051345-Thich-Nhat-Hanh-Quote-FREEDOM-IS-THE-basis-of-all-happiness.jpg" alt="secret"></code>
+
+<code><img height="400" src="https://cdn.quotes.pub/660x400/understanding-is-loves-other-name-270427.jpg" alt="secret"></code>
