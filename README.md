@@ -122,3 +122,4 @@ My interested fields including: Fullstack Web || Mobile App ||  Machine learning
 
 <code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/356524-Albert-Einstein-Quote-Only-a-life-lived-for-others-is-a-life.jpg" alt="secret"></code>
 
+<code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/442843-Albert-Einstein-Quote-God-does-not-play-dice.jpg" alt="secret"></code>
