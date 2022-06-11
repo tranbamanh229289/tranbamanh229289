@@ -111,3 +111,6 @@ My interested fields including: Fullstack Web || Mobile App ||  Machine learning
  <code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/2625942-Mark-Twain-Quote-To-stand-still-is-to-fall-behind.jpg" alt="secret"></code>
 
 <code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/372390-Ralph-Waldo-Emerson-Quote-When-you-were-born-you-were-crying-and.jpg" alt="secret"></code>
+
+<code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/4745308-Albert-Einstein-Quote-More-the-knowledge-lesser-the-Ego-lesser-the.jpg" alt="secret"></code>
+
