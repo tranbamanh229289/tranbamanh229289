@@ -75,7 +75,7 @@ My interested fields including: Fullstack Web || Mobile App ||  Machine learning
 </a>
 
 <a href="https://getbootstrap.com/" target="_blank">
-    <code><img height="30" src="https://cloudnesil.com/wp-content/uploads/2018/12/apachesparklogo.png" alt="spark"></code>
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="spark"></code>
 </a>
 
 
