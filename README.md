@@ -67,7 +67,15 @@ My interested fields including: Fullstack Web || Mobile App ||  Machine learning
 
 
 <a href="https://getbootstrap.com/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="spring"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap"></code>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" alt="hadoop"></code>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+    <code><img height="30" src="https://cloudnesil.com/wp-content/uploads/2018/12/apachesparklogo.png" alt="spark"></code>
 </a>
 
 
