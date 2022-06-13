@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m studying at Hanoi University of Science and Technology
 - 👯 Looking for an engineer , contact me **manh.tb183589@sis.hust.edu.vn**
 
-My interested fields including: Fullstack Web || Mobile App ||  Machine learning || Search Information || Nature Language Processing || Recommender System || Data Science
+My interested fields including: Fullstack Web || Mobile App ||  Machine learning || Search Information || Nature Language Processing || Recommender System || Big data
 
 ## :wrench: Favorite Languages 
 
