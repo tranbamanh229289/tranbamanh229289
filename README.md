@@ -112,7 +112,7 @@ My interested fields including: Fullstack web ||  Machine learning || Search Inf
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku"></code>
 </a>
 
-## Facorite quote 
+## Favorite quote 
 
  <code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/344394-John-Burroughs-Quote-If-you-think-you-can-do-it-you-can.jpg" alt="secret"></code>
  
