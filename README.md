@@ -79,7 +79,7 @@ My interested fields including: Fullstack web ||  Machine learning || Search Inf
 </a>
 
 
-## :wrench: Favorite Database
+## :wrench: Favorite RDBMS
 
 <a href="https://www.mysql.com/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
