@@ -49,13 +49,13 @@ My interested fields including: Fullstack web ||  Machine learning || Search Inf
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring"></code>
 </a>
 
-<a href="https:https://nodejs.org/en/" target="_blank">
-    <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="node"></code>
+<a href="https://expressjs.com/" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="node"></code>
 </a>
 
 
 <a href="https://www.elastic.co/es/" target="_blank">
-    <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg" alt="elasticsearch"></code>
+    <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elasticsearch"></code>
 </a>
 
 <a href="https://hadoop.apache.org/" target="_blank">
