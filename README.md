@@ -119,12 +119,7 @@ My interested fields including: Fullstack web ||  Machine learning || Search Inf
 <a href="https://www.docker.com/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker"></code>
 </a>
-<a href="https://kubernetes.io/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes"></code>
-</a>
-<a href="https://aws.amazon.com/?nc1=h_ls" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws"></code>
-</a>
+
 <a href="https://www.heroku.com/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku"></code>
 </a>
