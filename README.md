@@ -32,25 +32,13 @@ My interested fields including: Fullstack web ||  Machine learning || Search Inf
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
 </a>
     
-## :wrench: Favorite Framework 
+## :wrench: Favorite Framework Backend
 <a href="https://numpy.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy"></code>
 </a>
 
 <a href="https://scikit-learn.org/stable/" target="_blank">
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sklearn"></code>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"></code>
-</a>
-
-<a href="https://vuejs.org/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue"></code>
-</a>
-
-<a href="https://react-redux.js.org/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux"></code>
 </a>
 
 <a href="https://laravel.com/" target="_blank">
@@ -61,13 +49,13 @@ My interested fields including: Fullstack web ||  Machine learning || Search Inf
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring"></code>
 </a>
 
-<a href="https://www.elastic.co/es/" target="_blank">
-    <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg" alt="elasticsearch"></code>
+<a href="https:https://nodejs.org/en/" target="_blank">
+    <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="node"></code>
 </a>
 
 
-<a href="https://getbootstrap.com/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap"></code>
+<a href="https://www.elastic.co/es/" target="_blank">
+    <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/elastic-elasticsearch.svg" alt="elasticsearch"></code>
 </a>
 
 <a href="https://hadoop.apache.org/" target="_blank">
@@ -78,6 +66,30 @@ My interested fields including: Fullstack web ||  Machine learning || Search Inf
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="spark"></code>
 </a>
 
+## :wrench: Favorite Framework Frontend
+<a href="https://reactjs.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"></code>
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="next"></code>
+</a>
+
+<a href="https://vuejs.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue"></code>
+</a>
+
+<a href="https://nuxtjs.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="react"></code>
+</a>
+
+<a href="https://react-redux.js.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux"></code>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap"></code>
+</a>
 
 ## :wrench: Favorite DBMS
 
