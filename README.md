@@ -109,6 +109,11 @@ My interested fields including: Fullstack web ||  Machine learning || Search Inf
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"></code>
 </a>
 
+
+<a href="[https://www.postgresql.org/](https://redis.io/)" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis"></code>
+</a>
+
 ## :wrench: Favorite Tool
 
 <a href="https://www.docker.com/" target="_blank">
