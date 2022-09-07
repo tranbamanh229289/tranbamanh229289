@@ -131,6 +131,8 @@ My interested fields including: Fullstack web ||  Machine learning || Search Inf
 
 ## Favorite quote 
 
+ <code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/24631-Steve-Jobs-Quote-Deciding-what-not-to-do-is-as-important-as.jpg" alt="secret"></code>
+
  <code><img height="400" src="https://quotefancy.com/media/wallpaper/3840x2160/344394-John-Burroughs-Quote-If-you-think-you-can-do-it-you-can.jpg" alt="secret"></code>
  
  <code><img height="400" src="https://s-media-cache-ak0.pinimg.com/originals/9f/72/e9/9f72e92d70d7b5ed783aba4c2b57fb92.jpg" alt="secret"></code>
