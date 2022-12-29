@@ -58,14 +58,6 @@ My interested fields including: Fullstack web || Search Information System || Re
     <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elasticsearch"></code>
 </a>
 
-<a href="https://hadoop.apache.org/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1280px-Hadoop_logo.svg.png" alt="hadoop"></code>
-</a>
-
-<a href="https://spark.apache.org/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="spark"></code>
-</a>
-
 ## :wrench: Favorite Framework Frontend
 <a href="https://reactjs.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"></code>
