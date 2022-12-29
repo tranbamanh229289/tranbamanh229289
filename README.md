@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m studying at Hanoi University of Science and Technology
 - 👯 Looking for an engineer , contact me **manh.tb183589@sis.hust.edu.vn**
 
-My interested fields including: Fullstack web || Search Information System || Recommendation System || AWS Service 
+My interested fields including: Fullstack web || Search Information System || Recommendation System || Amazon Web Service
 
 ## :wrench: Favorite Languages 
 
