@@ -97,8 +97,8 @@ My interested fields including: Distributed System || Software Architecture || A
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker"></code>
 </a>
 
-<a href="https://www.heroku.com/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku"></code>
+<a href="https://kubernetes.io/vi/docs/concepts/overview/what-is-kubernetes/" target="_blank">
+    <code><img height="30" src="https://kubernetes.io/images/favicon.png" alt="heroku"></code>
 </a>
 
 <a href="https://firebase.google.com/" target="_blank">
