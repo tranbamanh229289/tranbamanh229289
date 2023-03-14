@@ -10,10 +10,18 @@ Here are some ideas to get you started:
 
 My interested fields including: Distributed System || Software Architecture || Amazon Web Service
 
+## Some tool I use
+
 <a href="https://www.python.org/" target="_blank">
-    <code><img height="30" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code></a>
+    <code><img height="30" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code>
+</a>
+
 <a href="https://www.java.com" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java"></code>
+</a>
+
+<a href="https://go.dev/" target="_blank">
+    <code><img height="30" src="https://image.pngaaa.com/60/5100060-middle.png" alt="java"></code>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
