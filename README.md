@@ -22,14 +22,6 @@ My interested fields including: Distributed System || Software Architecture || A
 <a href="https://www.typescriptlang.org/" target="_blank">
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code></a>
     
-<a href="https://www.w3schools.com/css/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css3"></code>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
-</a>
-    
 <a href="https://numpy.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy"></code>
 </a>
@@ -46,13 +38,12 @@ My interested fields including: Distributed System || Software Architecture || A
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring"></code>
 </a>
 
-<a href="https://expressjs.com/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="node"></code>
-</a>
-
-
 <a href="https://www.elastic.co/es/" target="_blank">
     <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elasticsearch"></code>
+</a>
+
+<a href="https://www.elastic.co/es/" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1261px-Apache_kafka.svg.png" alt="elasticsearch"></code>
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
