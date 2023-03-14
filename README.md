@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m studying at Hanoi University of Science and Technology
 - 👯 Looking for an engineer , contact me **manh.tb183589@sis.hust.edu.vn**
 
-My interested fields including: Distributed System || Software Architecture || Cloud Native
+My interested fields including: Distributed System || Software Architecture || Amazon Web Service
 
 ## :wrench: Favorite Languages 
 
