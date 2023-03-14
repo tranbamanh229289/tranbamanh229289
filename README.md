@@ -101,7 +101,6 @@ My interested fields including: Distributed System || Software Architecture || A
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis"></code>
 </a>
 
-
 <a href="https://www.docker.com/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker"></code>
 </a>
@@ -112,5 +111,10 @@ My interested fields including: Distributed System || Software Architecture || A
 
 <a href="https://firebase.google.com/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="heroku"></code>
+</a>
+
+
+<a href="https://aws.amazon.com" target="_blank">
+    <code><img height="30" src="https://i0.wp.com/off.tokyo/wp-content/uploads/2021/02/aws-logo.png?ssl=1" alt="heroku"></code>
 </a>
 
