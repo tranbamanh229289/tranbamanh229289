@@ -40,8 +40,8 @@ My interested fields including: Distributed System || Software Architecture || A
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring"></code>
 </a>
 
-<a href="https://www.elastic.co/es/">
-    <code><img height="30" src="https://codetutam.com/wp-content/uploads/2023/01/elk-la-gi.jpg" alt="elasticsearch"></code>
+<a href="https://www.elastic.co/es/" target="_blank">
+    <code><img height="30" src="https://burnhamforensics.files.wordpress.com/2019/03/elk-2.png?w=685" alt="elasticsearch"></code>
 </a>
 
 <a href="https://www.elastic.co/es/" target="_blank">
