@@ -41,7 +41,7 @@ My interested fields including: Distributed System || Software Architecture || A
 </a>
 
 <a href="https://www.elastic.co/es/" target="_blank">
-    <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elasticsearch"></code>
+    <code><img height="30" src="https://codetutam.com/wp-content/uploads/2023/01/elk-la-gi.jpg" alt="elasticsearch"></code>
 </a>
 
 <a href="https://www.elastic.co/es/" target="_blank">
