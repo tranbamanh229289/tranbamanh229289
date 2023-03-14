@@ -31,14 +31,6 @@ My interested fields including: Distributed System || Software Architecture || A
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code></a>
-    
-<a href="https://numpy.org/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy"></code>
-</a>
-
-<a href="https://scikit-learn.org/stable/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="sklearn"></code>
-</a>
 
 <a href="https://laravel.com/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel"></code>
