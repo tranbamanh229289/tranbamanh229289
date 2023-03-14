@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 
 My interested fields including: Distributed System || Software Architecture || Amazon Web Service
 
-## :wrench: Favorite Languages 
-
 <a href="https://www.python.org/" target="_blank">
     <code><img height="30" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code></a>
 <a href="https://www.java.com" target="_blank">
@@ -32,7 +30,6 @@ My interested fields including: Distributed System || Software Architecture || A
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5"></code>
 </a>
     
-## :wrench: Favorite Framework Backend
 <a href="https://numpy.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy"></code>
 </a>
@@ -58,7 +55,6 @@ My interested fields including: Distributed System || Software Architecture || A
     <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="elasticsearch"></code>
 </a>
 
-## :wrench: Favorite Framework Frontend
 <a href="https://reactjs.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"></code>
 </a>
@@ -83,7 +79,6 @@ My interested fields including: Distributed System || Software Architecture || A
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap"></code>
 </a>
 
-## :wrench: Favorite DBMS
 
 <a href="https://www.mysql.com/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"></code>
@@ -106,7 +101,6 @@ My interested fields including: Distributed System || Software Architecture || A
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis"></code>
 </a>
 
-## :wrench: Favorite Tool
 
 <a href="https://www.docker.com/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker"></code>
