@@ -80,10 +80,6 @@ My interested fields including: Distributed System || Software Architecture || A
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb"></code>
 </a>
 
- <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank">
-    <code><img height="30" src="https://w7.pngwing.com/pngs/278/609/png-transparent-microsoft-sql-server-sql-server-management-studio-windows-server-2008-database-performance-angle-symmetry-shoe.png" alt="sqlserver"></code>
-</a>
-
 <a href="https://www.postgresql.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"></code>
 </a>
