@@ -23,7 +23,7 @@ My interested fields including: Distributed System || Software Architecture || A
 </a>
 
 <a href="https://go.dev/" target="_blank">
-    <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="java"></code>
+    <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="golang"></code>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -40,28 +40,36 @@ My interested fields including: Distributed System || Software Architecture || A
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring"></code>
 </a>
 
+<a href="https://nestjs.com/" target="_blank">
+    <code><img height="30" src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestJS"></code>
+</a>
+
+<a href="https://gin-gonic.com/" target="_blank">
+    <code><img height="30" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gins"></code>
+</a>
+
 <a href="https://www.elastic.co/es/" target="_blank">
     <code><img height="30" src="https://burnhamforensics.files.wordpress.com/2019/03/elk-2.png?w=685" alt="elasticsearch"></code>
 </a>
 
-<a href="https://www.elastic.co/es/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1261px-Apache_kafka.svg.png" alt="elasticsearch"></code>
+<a href="https://kafka.apache.org/" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1261px-Apache_kafka.svg.png" alt="kafka"></code>
 </a>
 
 <a href="https://reactjs.org/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="reactjs"></code>
 </a>
 
 <a href="https://nextjs.org/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="next"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="nextjs"></code>
 </a>
 
 <a href="https://vuejs.org/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs"></code>
 </a>
 
 <a href="https://nuxtjs.org/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="react"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs"></code>
 </a>
 
 <a href="https://react-redux.js.org/" target="_blank">
@@ -69,7 +77,11 @@ My interested fields including: Distributed System || Software Architecture || A
 </a>
 
 <a href="https://graphql.org/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="redux"></code>
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="graphql"></code>
+</a>
+
+<a href="https://grpc.io/" target="_blank">
+    <code><img height="30" src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC"></code>
 </a>
 
 <a href="https://www.mysql.com/" target="_blank">
@@ -85,7 +97,7 @@ My interested fields including: Distributed System || Software Architecture || A
 </a>
 
 
-<a href="[https://www.postgresql.org/](https://redis.io/)" target="_blank">
+<a href="https://redis.io/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis"></code>
 </a>
 
@@ -94,15 +106,15 @@ My interested fields including: Distributed System || Software Architecture || A
 </a>
 
 <a href="https://kubernetes.io/vi/docs/concepts/overview/what-is-kubernetes/" target="_blank">
-    <code><img height="30" src="https://kubernetes.io/images/favicon.png" alt="heroku"></code>
+    <code><img height="30" src="https://kubernetes.io/images/favicon.png" alt="kubenetes"></code>
 </a>
 
 <a href="https://firebase.google.com/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="heroku"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase"></code>
 </a>
 
 
 <a href="https://aws.amazon.com" target="_blank">
-    <code><img height="30" src="https://img.icons8.com/color/256/amazon-web-services.png" alt="heroku"></code>
+    <code><img height="30" src="https://img.icons8.com/color/256/amazon-web-services.png" alt="aws"></code>
 </a>
 
