@@ -60,16 +60,8 @@ My interested fields including: Distributed System || Software Architecture || A
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="reactjs"></code>
 </a>
 
-<a href="https://nextjs.org/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" alt="nextjs"></code>
-</a>
-
 <a href="https://vuejs.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs"></code>
-</a>
-
-<a href="https://nuxtjs.org/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="nuxtjs"></code>
 </a>
 
 <a href="https://react-redux.js.org/" target="_blank">
