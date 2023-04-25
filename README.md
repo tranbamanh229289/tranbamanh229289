@@ -38,11 +38,7 @@ My interested fields including: Distributed System || Software Architecture || A
 
 <a href="https://spring.io/projects/spring-boot" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring"></code>
-</a>
-
-<a href="https://nestjs.com/" target="_blank">
-    <code><img height="30" src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestJS"></code>
-</a>
+</a
 
 <a href="https://gin-gonic.com/" target="_blank">
     <code><img height="30" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gins"></code>
