@@ -32,8 +32,8 @@ My interested fields including: Distributed System || Software Architecture || A
 <a href="https://www.typescriptlang.org/" target="_blank">
     <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code></a>
 
-<a href="https://laravel.com/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel"></code>
+<a href="https://nestjs.com/" target="_blank">
+    <code><img height="30" src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs"></code>
 </a>
 
 <a href="https://spring.io/projects/spring-boot" target="_blank">
