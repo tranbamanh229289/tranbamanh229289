@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m studying at Hanoi University of Science and Technology
-- 🌱 I'm currently concentrated on microservice architecture, multithread programming and reactive programming
+- 🌱 I'm currently concentrated on microservice architecture, blockchain
 - 👯 Looking for an software engineer , contact me **manh.tb183589@sis.hust.edu.vn**
 
 
