@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m studying at Hanoi University of Science and Technology
-- 🌱 I'm currently concentrated on microservice architecture
+- 🌱 I'm currently concentrated on microservice architecture, blockchain
 - 👯 Looking for an software engineer , contact me **manh.tb183589@sis.hust.edu.vn**
 
 
-My interested fields including: Distributed System || Software Architecture || Amazon Web Service
+My interested fields including: Distributed System || || Decentralized system ||Software Architecture || Amazon Web Service
 
 ## Some tool I use
 
