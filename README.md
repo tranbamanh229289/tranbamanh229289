@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 Looking for an software engineer , contact me **manh.tb183589@sis.hust.edu.vn**
 
 
-My interested fields including: Distributed System || Decentralized System ||Software Architecture || Amazon Web Service
+My interested fields including: Distributed System || Decentralized System || Software Architecture || Devops
 
 ## Some tool I use
 
