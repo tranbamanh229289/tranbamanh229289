@@ -118,6 +118,7 @@ My interested fields including: Distributed System || Decentralized System || So
     <code><img height="30" src="https://blog.mexc.com/wp-content/uploads/2023/01/OpenZeppelin.png" alt="openzeppelin"></code>
 </a>
 
-
-
+<a href="https://docs.ethers.org/v5/" target="_blank">
+    <code><img height="30" src="https://res.cloudinary.com/divzjiip8/image/upload/v1624392472/logos/ethers_blue.png" alt="etherjs"></code>
+</a>
 
