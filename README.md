@@ -14,8 +14,8 @@ My interested fields including: Distributed System || Decentralized System || So
 
 ## Some tool I use
 
-<a href="https://www.python.org/" target="_blank">
-    <code><img height="30" src="https://www.python.org/static/apple-touch-icon-precomposed.png"></code>
+<a href="https://docs.soliditylang.org/en/v0.8.20/" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png"></code>
 </a>
 
 <a href="https://www.java.com" target="_blank">
@@ -97,12 +97,21 @@ My interested fields including: Distributed System || Decentralized System || So
     <code><img height="30" src="https://kubernetes.io/images/favicon.png" alt="kubenetes"></code>
 </a>
 
-<a href="https://firebase.google.com/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase"></code>
-</a>
-
 
 <a href="https://aws.amazon.com" target="_blank">
     <code><img height="30" src="https://img.icons8.com/color/256/amazon-web-services.png" alt="aws"></code>
 </a>
+
+<a href="https://ethereum.org/vi/" target="_blank">
+    <code><img height="30" src="https://cdn.sanity.io/images/myxeel5j/production/7aab39bda1fad9b9a3499e0e26a687494566690c-3258x3258.png?fit=max&auto=format" alt="ethereum"></code>
+</a>
+
+<a href="https://chain.link/" target="_blank">
+    <code><img height="30" src="https://thegivingblock.com/wp-content/uploads/2021/08/ChainLink-LINK-Logo.png" alt="chainlink"></code>
+</a>
+
+<a href="https://www.starknet.io/en" target="_blank">
+    <code><img height="30" src="https://pbs.twimg.com/card_img/1667205560502984704/MfAvH2N5?format=png&name=small" alt="starknet"></code>
+</a>
+
 
