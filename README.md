@@ -14,10 +14,6 @@ My interested fields including: Distributed System || Decentralized System || So
 
 ## Some tool I use
 
-<a href="https://docs.soliditylang.org/en/v0.8.20/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png"></code>
-</a>
-
 <a href="https://www.java.com" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java"></code>
 </a>
@@ -106,12 +102,20 @@ My interested fields including: Distributed System || Decentralized System || So
     <code><img height="30" src="https://cdn.sanity.io/images/myxeel5j/production/7aab39bda1fad9b9a3499e0e26a687494566690c-3258x3258.png?fit=max&auto=format" alt="ethereum"></code>
 </a>
 
+<a href="https://www.cairo-lang.org/docs/" target="_blank">
+    <code><img height="30" src="https://starkware.co/wp-content/uploads/2021/05/logoicon.svg" alt="cairo"></code>
+</a>
+
+<a href="https://docs.soliditylang.org/en/v0.8.20/" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png"></code>
+</a>
+
 <a href="https://chain.link/" target="_blank">
     <code><img height="30" src="https://thegivingblock.com/wp-content/uploads/2021/08/ChainLink-LINK-Logo.png" alt="chainlink"></code>
 </a>
 
 <a href="https://www.starknet.io/en" target="_blank">
-    <code><img height="30" src="https://pbs.twimg.com/card_img/1667205560502984704/MfAvH2N5?format=png&name=small" alt="starknet"></code>
+    <code><img height="30" src="https://images.ctfassets.net/6g6hg01fg28j/3mVjQXIUw9IIj9ndqAVI2O/553ad0a412b49c00b8ed32031dc037d3/starknet-hero-image.svg" alt="starknet"></code>
 </a>
 
 <a href="https://www.openzeppelin.com/" target="_blank">
