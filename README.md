@@ -102,6 +102,10 @@ My interested fields including: Distributed System || Decentralized System || So
     <code><img height="30" src="https://cdn.sanity.io/images/myxeel5j/production/7aab39bda1fad9b9a3499e0e26a687494566690c-3258x3258.png?fit=max&auto=format" alt="ethereum"></code>
 </a>
 
+<a href="https://doc.rust-lang.org/book/" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/640px-Rust_programming_language_black_logo.svg.png" alt="rust"></code>
+</a>
+
 <a href="https://www.cairo-lang.org/docs/" target="_blank">
     <code><img height="30" src="https://starkware.co/wp-content/uploads/2021/05/logoicon.svg" alt="cairo"></code>
 </a>
