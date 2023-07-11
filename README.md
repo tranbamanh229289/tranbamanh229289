@@ -44,6 +44,18 @@ My interested fields including: Distributed System || Decentralized System || So
     <code><img height="30" src="https://burnhamforensics.files.wordpress.com/2019/03/elk-2.png?w=685" alt="elasticsearch"></code>
 </a>
 
+<a href="https://prometheus.io/" target="_blank">
+    <code><img height="30" src="https://www.mytinydc.com/images/blog/blog-prometheus+grafana.png" alt="prometheus"></code>
+</a>
+
+<a href="https://www.jenkins.io/" target="_blank">
+    <code><img height="30" src="https://tel4vn.edu.vn/uploads/2020/07/jenkins_logo.png" alt="jenkins"></code>
+</a>
+
+<a href="https://www.terraform.io/" target="_blank">
+    <code><img height="30" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png" alt="terraform"></code>
+</a>
+
 <a href="https://kafka.apache.org/" target="_blank">
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1261px-Apache_kafka.svg.png" alt="kafka"></code>
 </a>
