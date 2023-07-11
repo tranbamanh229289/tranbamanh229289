@@ -49,11 +49,15 @@ My interested fields including: Distributed System || Decentralized System || So
 </a>
 
 <a href="https://www.jenkins.io/" target="_blank">
-    <code><img height="30" src="https://tel4vn.edu.vn/uploads/2020/07/jenkins_logo.png" alt="jenkins"></code>
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins"></code>
 </a>
 
 <a href="https://www.terraform.io/" target="_blank">
     <code><img height="30" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png" alt="terraform"></code>
+</a>
+
+<a href="https://www.ansible.com/" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png" alt="ansible"></code>
 </a>
 
 <a href="https://kafka.apache.org/" target="_blank">
