@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 Looking for an software engineer , contact me **manh.tb183589@sis.hust.edu.vn**
 
 
-My interested fields including: Distributed System || Decentralized System || Cryptography || Software Architecture || Devops
+My interested fields including: Distributed System || Decentralized System || Cryptography || Software Architecture || DevSecOps || Cloud Computing
 
 ## Some tool I use
 
