@@ -109,6 +109,9 @@ My interested fields including: Distributed System || Decentralized System || So
     <code><img height="30" src="https://kubernetes.io/images/favicon.png" alt="kubenetes"></code>
 </a>
 
+<a href="https://istio.io/" target="_blank">
+    <code><img height="30" src="https://istio.io/img/logo.png" alt="isto"></code>
+</a>
 
 <a href="https://aws.amazon.com" target="_blank">
     <code><img height="30" src="https://img.icons8.com/color/256/amazon-web-services.png" alt="aws"></code>
