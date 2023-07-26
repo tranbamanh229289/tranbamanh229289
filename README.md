@@ -64,6 +64,10 @@ My interested fields including: Distributed System || Decentralized System || Cr
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1261px-Apache_kafka.svg.png" alt="kafka"></code>
 </a>
 
+<a href="https://www.linux.org/" target="_blank">
+    <code><img height="30" src="https://e7.pngegg.com/pngimages/250/100/png-clipart-linux-linux-thumbnail.png" alt="linux"></code>
+</a>
+
 <a href="https://reactjs.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="reactjs"></code>
 </a>
