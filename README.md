@@ -141,6 +141,10 @@ My interested fields including: Distributed System || Decentralized System || Cr
     <code><img height="30" src="https://thegivingblock.com/wp-content/uploads/2021/08/ChainLink-LINK-Logo.png" alt="chainlink"></code>
 </a>
 
+<a href="https://thegraph.com/" target="_blank">
+    <code><img height="30" src="https://chainstack.com/wp-content/uploads/2020/06/graph-logo.png" alt="thegraph"></code>
+</a>
+
 <a href="https://www.starknet.io/en" target="_blank">
     <code><img height="30" src="https://images.ctfassets.net/6g6hg01fg28j/3mVjQXIUw9IIj9ndqAVI2O/553ad0a412b49c00b8ed32031dc037d3/starknet-hero-image.svg" alt="starknet"></code>
 </a>
