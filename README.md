@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m studying computer science engineer program at School of Information and Communication Techonology, Hanoi University of Science and Technology
-- 🌱 I'm currently concentrated on microservice architecture, blockchain technology
+- 🌱 I'm currently concentrated on blockchain technology
 - 👯 Looking for an software engineer , contact me **manh.tb183589@sis.hust.edu.vn**
 
 
-My interested fields including: Distributed System || Decentralized System || Cryptography || Software Architecture || DevSecOps || Cloud Computing
+My interested fields including:  Decentralized System || Distributed System || Cloud Computing || Operating Systems and Computer Networks || Cryptography || Software Architecture 
 
 ## Some tool I use
 
