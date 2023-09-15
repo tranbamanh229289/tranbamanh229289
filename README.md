@@ -14,12 +14,16 @@ My interested fields of research including:  Decentralized Systems || Distribute
 
 ## Some tool I use
 
-<a href="https://www.java.com" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java"></code>
+<a href="https://doc.rust-lang.org/book/" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/640px-Rust_programming_language_black_logo.svg.png" alt="rust"></code>
 </a>
 
 <a href="https://go.dev/" target="_blank">
     <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="golang"></code>
+</a>
+
+<a href="https://www.java.com" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java"></code>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -35,10 +39,6 @@ My interested fields of research including:  Decentralized Systems || Distribute
 <a href="https://spring.io/projects/spring-boot" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring"></code>
 </a
-
-<a href="https://gin-gonic.com/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" alt="gins"></code>
-</a>
 
 <a href="https://www.elastic.co/es/" target="_blank">
     <code><img height="30" src="https://burnhamforensics.files.wordpress.com/2019/03/elk-2.png?w=685" alt="elasticsearch"></code>
@@ -123,10 +123,6 @@ My interested fields of research including:  Decentralized Systems || Distribute
 
 <a href="https://ethereum.org/vi/" target="_blank">
     <code><img height="30" src="https://cdn.sanity.io/images/myxeel5j/production/7aab39bda1fad9b9a3499e0e26a687494566690c-3258x3258.png?fit=max&auto=format" alt="ethereum"></code>
-</a>
-
-<a href="https://doc.rust-lang.org/book/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/640px-Rust_programming_language_black_logo.svg.png" alt="rust"></code>
 </a>
 
 <a href="https://www.cairo-lang.org/docs/" target="_blank">
