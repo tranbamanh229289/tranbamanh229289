@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m studying computer science engineer program at School of Information and Communication Techonology, Hanoi University of Science and Technology
-- 🌱 I'm currently concentrated on blockchain technology
+- 🌱 I'm currently concentrated on blockchain technology(ethereum, substrate, ZK rollup,...) and decentralized cryptography(ZKP, MPC, FHE) and distributed computing
 - 👯 Looking for an software engineer , contact me **manh.tb183589@sis.hust.edu.vn**
 
 
