@@ -1,10 +1,5 @@
 <h1 align="center" >Hi there 👋 I'm Manh Tran </h1>
 
-
-**tranbamanh229289/tranbamanh229289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m studying computer science engineer program at School of Information and Communication Techonology, Hanoi University of Science and Technology
 - 🌱 I'm currently concentrated on blockchain technology(ethereum, substrate, ZK rollup,...) and decentralized cryptography(ZKP, MPC, FHE) and distributed computing
 - 👯 Looking for an software engineer , contact me **manh.tb183589@sis.hust.edu.vn**
