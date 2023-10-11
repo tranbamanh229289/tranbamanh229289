@@ -1,12 +1,10 @@
 <h1 align="center" >Hi there 👋 I'm Manh Tran </h1>
 
 - 🔭 I’m studying computer science engineer program at School of Information and Communication Techonology, Hanoi University of Science and Technology
-- 🌱 I'm currently concentrated on blockchain technology(ethereum, substrate, ZK rollup,...) and decentralized cryptography(ZKP, MPC, FHE) and distributed computing
-- 👯 Looking for an software engineer , contact me **manh.tb183589@sis.hust.edu.vn**
+- 🌱 I'm currently concentrated on decentralized systems(ethereum, substrate, ZK rollup,...), decentralized cryptography(ZKP, MPC, FHE,...) and distributed systems(Consensus, Fault Tolerance, Parallelism,...)
+- 👯 Looking for an blockchain R&D, contact me manh.tb183589@sis.hust.edu.vn
 
-
-My interested fields of research including:  Decentralized Systems || Distributed Systems || Cloud Computing || Operating Systems and Computer Networks || Database || Security 
-
+My interested fields of research including: Decentralized Systems || Distributed Systems || Operating Systems and Computer Networks || Database || Security
 ## Some tool I use
 
 <a href="https://doc.rust-lang.org/book/" target="_blank">
