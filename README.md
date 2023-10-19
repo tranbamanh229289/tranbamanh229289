@@ -6,6 +6,11 @@
 
 My interested fields of research including: Decentralized Systems || Distributed Systems || Operating Systems and Computer Networks || Database || Security
 ## My Skill
+### OS
+<a href="https://www.linux.org/" target="_blank">
+    <code><img height="30" src="https://e7.pngegg.com/pngimages/250/100/png-clipart-linux-linux-thumbnail.png" alt="linux"></code>
+</a>
+
 ### Language programming:
 <a href="https://doc.rust-lang.org/book/" target="_blank">
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/640px-Rust_programming_language_black_logo.svg.png" alt="rust"></code>
@@ -35,10 +40,6 @@ My interested fields of research including: Decentralized Systems || Distributed
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png"></code>
 </a>
 
-### OS
-<a href="https://www.linux.org/" target="_blank">
-    <code><img height="30" src="https://e7.pngegg.com/pngimages/250/100/png-clipart-linux-linux-thumbnail.png" alt="linux"></code>
-</a>
 
 ### Framework Backend
 <a href="https://nestjs.com/" target="_blank">
@@ -75,18 +76,6 @@ My interested fields of research including: Decentralized Systems || Distributed
 
 
 ### Framework Frontend
-<a href="https://www.jenkins.io/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins"></code>
-</a>
-
-<a href="https://www.terraform.io/" target="_blank">
-    <code><img height="30" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png" alt="terraform"></code>
-</a>
-
-<a href="https://www.ansible.com/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png" alt="ansible"></code>
-</a>
-
 <a href="https://reactjs.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="reactjs"></code>
 </a>
@@ -128,6 +117,18 @@ My interested fields of research including: Decentralized Systems || Distributed
 
 <a href="https://istio.io/" target="_blank">
     <code><img height="30" src="https://istio.io/img/logo.png" alt="isto"></code>
+</a>
+
+<a href="https://www.jenkins.io/" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins"></code>
+</a>
+
+<a href="https://www.terraform.io/" target="_blank">
+    <code><img height="30" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png" alt="terraform"></code>
+</a>
+
+<a href="https://www.ansible.com/" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png" alt="ansible"></code>
 </a>
 
 ### Cloud
