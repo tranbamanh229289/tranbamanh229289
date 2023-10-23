@@ -4,7 +4,7 @@
 - 🌱 I'm currently concentrated on decentralized systems(ethereum, substrate, ZK rollup,...), decentralized cryptography(ZKP, MPC, FHE,...) and distributed systems(Consensus, Fault Tolerance, Parallelism,...)
 - 👯 Looking for an blockchain R&D, contact me manh.tb183589@sis.hust.edu.vn
 
-My interested fields of research including: Decentralized Systems || Distributed Systems || Operating Systems and Computer Networks || Database || Security || Bigdata processing
+My interested fields of research including: Decentralized Systems || Distributed Systems || Operating Systems and Computer Networks || Database || Security || Data Science
 ## My Skill
 ### OS
 <a href="https://www.linux.org/" target="_blank">
