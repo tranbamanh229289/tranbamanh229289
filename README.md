@@ -123,14 +123,6 @@ My interested fields of research including: Decentralized Systems || Distributed
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins"></code>
 </a>
 
-<a href="https://www.terraform.io/" target="_blank">
-    <code><img height="30" src="https://www.aviator.co/blog/wp-content/uploads/2023/01/terraform.png" alt="terraform"></code>
-</a>
-
-<a href="https://www.ansible.com/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1200px-Ansible_logo.svg.png" alt="ansible"></code>
-</a>
-
 ### Cloud
 <a href="https://aws.amazon.com" target="_blank">
     <code><img height="30" src="https://img.icons8.com/color/256/amazon-web-services.png" alt="aws"></code>
