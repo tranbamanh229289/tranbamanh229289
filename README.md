@@ -11,7 +11,7 @@ My interested fields of research including: Decentralized Systems || Distributed
     <code><img height="30" src="https://e7.pngegg.com/pngimages/250/100/png-clipart-linux-linux-thumbnail.png" alt="linux"></code>
 </a>
 
-### Language programming:
+### Programming Language
 <a href="https://doc.rust-lang.org/book/" target="_blank">
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/640px-Rust_programming_language_black_logo.svg.png" alt="rust"></code>
 </a>
@@ -41,7 +41,7 @@ My interested fields of research including: Decentralized Systems || Distributed
 </a>
 
 
-### Framework Backend
+### Backend Framework
 <a href="https://nestjs.com/" target="_blank">
     <code><img height="30" src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs"></code>
 </a>
@@ -75,7 +75,7 @@ My interested fields of research including: Decentralized Systems || Distributed
 </a>
 
 
-### Framework Frontend
+### Frontend Framework
 <a href="https://reactjs.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="reactjs"></code>
 </a>
@@ -106,7 +106,7 @@ My interested fields of research including: Decentralized Systems || Distributed
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis"></code>
 </a>
 
-### Devops
+### Deployment
 <a href="https://www.docker.com/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker"></code>
 </a>
