@@ -133,6 +133,10 @@ My interested fields of research including: Distributed Systems || Operating Sys
     <code><img height="30" src="https://cdn.sanity.io/images/myxeel5j/production/7aab39bda1fad9b9a3499e0e26a687494566690c-3258x3258.png?fit=max&auto=format" alt="ethereum"></code>
 </a>
 
+<a href="https://solana.com/vi" target="_blank">
+    <code><img height="30" src="https://cryptologos.cc/logos/solana-sol-logo.png" alt="solana"></code>
+</a>
+
 <a href="https://www.polkadot.network/" target="_blank">
     <code><img height="30" src="https://user-images.githubusercontent.com/25497083/148661419-419ad5b3-1b9f-480a-b723-3f292616730c.png" alt="polkadot"></code>
 </a>
