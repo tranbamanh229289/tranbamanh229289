@@ -42,10 +42,6 @@ My interested fields of research including: Distributed Systems || Operating Sys
 
 
 ### Backend Framework
-<a href="https://nestjs.com/" target="_blank">
-    <code><img height="30" src="https://docs.nestjs.com/assets/logo-small.svg" alt="nestjs"></code>
-</a>
-
 <a href="https://spring.io/projects/spring-boot" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring"></code>
 </a
@@ -56,6 +52,11 @@ My interested fields of research including: Distributed Systems || Operating Sys
 
 <a href="https://www.elastic.co/es/" target="_blank">
     <code><img height="30" src="https://burnhamforensics.files.wordpress.com/2019/03/elk-2.png?w=685" alt="elasticsearch"></code>
+</a>
+
+
+<a href="https://docs.konghq.com/gateway/latest/" target="_blank">
+    <code><img height="30" src="https://seeklogo.com/images/K/kong-logo-30290787E5-seeklogo.com.png" alt="kong"></code>
 </a>
 
 <a href="https://prometheus.io/" target="_blank">
