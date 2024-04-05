@@ -116,10 +116,6 @@ My interested fields of research including: Distributed Systems || Operating Sys
     <code><img height="30" src="https://kubernetes.io/images/favicon.png" alt="kubenetes"></code>
 </a>
 
-<a href="https://istio.io/" target="_blank">
-    <code><img height="30" src="https://istio.io/img/logo.png" alt="isto"></code>
-</a>
-
 <a href="https://www.jenkins.io/" target="_blank">
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="jenkins"></code>
 </a>
@@ -131,7 +127,7 @@ My interested fields of research including: Distributed Systems || Operating Sys
 
 ### Blockchain
 <a href="https://ethereum.org/vi/" target="_blank">
-    <code><img height="30" src="https://cdn.sanity.io/images/myxeel5j/production/7aab39bda1fad9b9a3499e0e26a687494566690c-3258x3258.png?fit=max&auto=format" alt="ethereum"></code>
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" alt="ethereum"></code>
 </a>
 
 <a href="https://solana.com/vi" target="_blank">
