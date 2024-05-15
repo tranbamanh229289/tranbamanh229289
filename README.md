@@ -1,8 +1,8 @@
 <h1 align="center" >Hi there 👋 I'm Manh Tran </h1>
 
 - 🔭 I’m studying computer science engineer program at School of Information and Communication Techonology, Hanoi University of Science and Technology
-- 🌱 I'm currently concentrated on decentralized systems(Decentralized network, Consensus, Layer0, Layer1, Layer2, Oracles, Decentralized Storage,...), decentralized cryptography(ZKP, MPC, FHE,...) and distributed systems(Consensus, Fault Tolerance, Parallelism,...)
-- 👯 Looking for an R&D Blockchain, contact me manh.tb183589@sis.hust.edu.vn
+- 🌱 I'm currently concentrated on decentralized systems(decentralized network, consensus, layer0, layer1, layer2, oracles, decentralized storage,...), decentralized cryptography(zero knowledge proof, secure multi-party computation, fully homomorphic encryption, threshold cryptography...) and distributed systems(consensus, fault tolerance, parallelism,...)
+- 👯 Looking for an Blockchain R&D, contact me manh.tb183589@sis.hust.edu.vn
 
 My interested fields of research including: Distributed Systems || Operating Systems and Computer Networks || Database || Security and Privacy
 ## My Skill
@@ -112,8 +112,8 @@ My interested fields of research including: Distributed Systems || Operating Sys
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker"></code>
 </a>
 
-<a href="https://kubernetes.io/vi/docs/concepts/overview/what-is-kubernetes/" target="_blank">
-    <code><img height="30" src="https://kubernetes.io/images/favicon.png" alt="kubenetes"></code>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" target="_blank">
+    <code><img height="30" src="" alt="kubenetes"></code>
 </a>
 
 <a href="https://www.jenkins.io/" target="_blank">
