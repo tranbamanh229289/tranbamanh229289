@@ -42,6 +42,9 @@ My interested fields of research including: Distributed Systems || Operating Sys
 
 
 ### Backend Framework
+<a href="https://tokio.rs/" target="_blank">
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Tokio_logo.svg/800px-Tokio_logo.svg.png" alt="tokio"></code>
+</a
 <a href="https://spring.io/projects/spring-boot" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring"></code>
 </a
