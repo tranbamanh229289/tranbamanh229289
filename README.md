@@ -110,7 +110,7 @@ My interested fields of research including: Distributed Systems || Operating Sys
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis"></code>
 </a>
 
-### Deployment
+### Deployment Tool
 <a href="https://www.docker.com/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker"></code>
 </a>
