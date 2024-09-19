@@ -115,8 +115,8 @@ My interested fields of research including: Distributed Systems || Operating Sys
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker"></code>
 </a>
 
-<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" target="_blank">
-    <code><img height="30" src="" alt="kubenetes"></code>
+<a href="https://kubernetes.io/" target="_blank">
+    <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPKA-U9m5BxYQDF1O7atMfj9EMMXEoGu4t0Q&s" alt="kubenetes"></code>
 </a>
 
 <a href="https://www.jenkins.io/" target="_blank">
@@ -137,12 +137,21 @@ My interested fields of research including: Distributed Systems || Operating Sys
     <code><img height="30" src="https://cryptologos.cc/logos/solana-sol-logo.png" alt="solana"></code>
 </a>
 
+<a href="https://ton.org/" target="_blank">
+    <code><img height="30" src="https://cryptologos.cc/logos/toncoin-ton-logo.png" alt="ton"></code>
+</a>
+
+
 <a href="https://www.polkadot.network/" target="_blank">
-    <code><img height="30" src="https://user-images.githubusercontent.com/25497083/148661419-419ad5b3-1b9f-480a-b723-3f292616730c.png" alt="polkadot"></code>
+    <code><img height="30" src="https://cryptologos.cc/logos/polkadot-new-dot-logo.png" alt="polkadot"></code>
+</a>
+
+<a href="https://cosmos.network/" target="_blank">
+    <code><img height="30" src="https://cryptologos.cc/logos/cosmos-atom-logo.png" alt="cosmos"></code>
 </a>
 
 <a href="https://chain.link/" target="_blank">
-    <code><img height="30" src="https://thegivingblock.com/wp-content/uploads/2021/08/ChainLink-LINK-Logo.png" alt="chainlink"></code>
+    <code><img height="30" src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="chainlink"></code>
 </a>
 
 <a href="https://thegraph.com/" target="_blank">
@@ -150,7 +159,7 @@ My interested fields of research including: Distributed Systems || Operating Sys
 </a>
 
 <a href="https://www.starknet.io/en" target="_blank">
-    <code><img height="30" src="https://images.ctfassets.net/6g6hg01fg28j/3mVjQXIUw9IIj9ndqAVI2O/553ad0a412b49c00b8ed32031dc037d3/starknet-hero-image.svg" alt="starknet"></code>
+    <code><img height="30" src="https://cryptologos.cc/logos/starknet-token-strk-logo.png" alt="starknet"></code>
 </a>
 
 <a href="https://www.openzeppelin.com/" target="_blank">
