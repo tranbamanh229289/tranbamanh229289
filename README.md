@@ -50,7 +50,7 @@ My interested fields of research including: Distributed Systems || Operating Sys
 </a
 
 <a href="https://kafka.apache.org/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1261px-Apache_kafka.svg.png" alt="kafka"></code>
+    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Apache_Kafka_logo.svg" alt="kafka"></code>
 </a>
 
 <a href="https://www.elastic.co/es/" target="_blank">
