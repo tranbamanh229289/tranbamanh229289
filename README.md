@@ -15,16 +15,16 @@ My interested fields of research including: Distributed Systems || Operating Sys
     <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="golang"></code>
 </a>
 
-<a href="https://www.c-language.org/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c"></code>
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
 </a>
 
 <a href="https://www.java.com" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java"></code>
 </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-    <code><img height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
+<a href="https://www.c-language.org/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c"></code>
 </a>
 
 <a href="https://docs.soliditylang.org/en/v0.8.20/" target="_blank">
@@ -54,7 +54,7 @@ My interested fields of research including: Distributed Systems || Operating Sys
 
 ### Frontend Framework
 <a href="https://reactjs.org/" target="_blank">
-    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="reactjs"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs"></code>
 </a>
 
 <a href="https://nextjs.org/docs" target="_blank">
