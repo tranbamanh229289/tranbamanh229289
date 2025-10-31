@@ -107,11 +107,6 @@ My interested fields of research including: Distributed Systems || Operating Sys
     <code><img height="30" src="https://burnhamforensics.files.wordpress.com/2019/03/elk-2.png?w=685" alt="elasticsearch"></code>
 </a>
 
-<a href="https://www.nginx.com/" target="_blank">
-    <code><img height="30" src="https://seeklogo.com/images/N/nginx-logo-FF65602A76-seeklogo.com.png" alt="Nginx"></code>
-</a>
-
-
 ### Infrastructure
 <a href="https://www.linux.org/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux"></code>
@@ -124,6 +119,11 @@ My interested fields of research including: Distributed Systems || Operating Sys
 <a href="https://docs.ansible.com/ansible/latest/index.html" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" alt="ansible"></code>
 </a>
+
+<a href="https://www.nginx.com/" target="_blank">
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Nginx"></code>
+</a>
+
 
 <a href="https://www.docker.com/" target="_blank">
     <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker"></code>
@@ -144,7 +144,6 @@ My interested fields of research including: Distributed Systems || Operating Sys
 <a href="https://aws.amazon.com" target="_blank">
     <code><img height="30" src="https://img.icons8.com/color/256/amazon-web-services.png" alt="aws"></code>
 </a>
-
 
 ### Blockchain
 <a href="https://ethereum.org/vi/" target="_blank">
@@ -167,6 +166,3 @@ My interested fields of research including: Distributed Systems || Operating Sys
     <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_of_The_Graph.jpg" alt="thegraph"></code>
 </a>
 
-<a href="https://www.starknet.io/en" target="_blank">
-    <code><img height="30" src="https://cryptologos.cc/logos/starknet-token-strk-logo.png" alt="starknet"></code>
-</a>
