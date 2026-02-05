@@ -8,7 +8,7 @@ My interested fields of research including: Distributed Systems || Operating Sys
 ## My Skill
 ### Programming Language
 <a href="https://doc.rust-lang.org/book/" target="_blank">
-    <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/640px-Rust_programming_language_black_logo.svg.png" alt="rust"></code>
+    <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" alt="rust"></code>
 </a>
 
 <a href="https://go.dev/" target="_blank">
