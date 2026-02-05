@@ -4,7 +4,7 @@
 - 🌱 I'm currently concentrated on decentralized systems(decentralized network, consensus, layer0, layer1, layer2, oracles, decentralized storage,...), decentralized cryptography(zero knowledge proof, secure multi-party computation, fully homomorphic encryption, threshold cryptography...) and distributed systems(consensus, fault tolerance, parallelism,...)
 - 👯 Looking for an Blockchain R&D, contact me manh.tb183589@sis.hust.edu.vn
 
-My interested fields of research including: Distributed Systems || Operating Systems and Computer Networks || Database || Security and Privacy || Cloud Computing || LLMs and Agent
+My interested fields of research including: Distributed Systems || Operating Systems and Computer Networks || Database || Security and Privacy || Cloud Computing
 ## My Skill
 ### Programming Language
 <a href="https://doc.rust-lang.org/book/" target="_blank">
