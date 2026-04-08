@@ -4,14 +4,16 @@
 
 🌱 I am currently focusing on:
 
-- **Distributed Systems**: distributed storage (GFS, HDFS, IPFS, Cassandra, TiDB, Kafka, ScyllaDB), distributed coordination (ZooKeeper, etcd), consensus algorithms (Raft, ZAB, PBFT), communication protocols (RPC, Gossip)
-- **Cloud & DevOps**: AWS (Solutions Architect Associate, Solutions Architect Professional, Security Specialty), Azure (Administrator, Solutions Architect), Kubernetes, Terraform
-- **Cryptography**: zero-knowledge proofs (PLONK, STARK, Groth16), secure multi-party computation (MPC), fully homomorphic encryption (FHE), threshold cryptography
+- ⚙️ Distributed Systems: distributed storage (GFS, HDFS, IPFS, Cassandra, TiDB, Kafka, ScyllaDB), distributed coordination (ZooKeeper, etcd), consensus algorithms (Raft, ZAB, PBFT), communication protocols (RPC, Gossip)
+
+- ☁️ Cloud & DevOps: AWS (Solutions Architect Associate, Solutions Architect Professional, Security Specialty), Azure (Administrator, Solutions Architect), Kubernetes, Terraform
+
+- 🔐 Cryptography: zero-knowledge proofs (PLONK, STARK, Groth16), secure multi-party computation (MPC), fully homomorphic encryption (FHE), threshold cryptography
 
 👯 I am open to Software Engineer opportunities. Feel free to reach out at: **manh.tb183589@sis.hust.edu.vn**
 
-📚 My research interests include:
-Distributed Systems · Operating Systems · Computer Networks · Databases · Security & Privacy
+📚 My research interests include: Distributed Systems · Operating Systems · Computer Networks · Databases · Security & Privacy
+
 ## My Skill
 ### Programming Language
 <a href="https://doc.rust-lang.org/book/" target="_blank">
