@@ -1,10 +1,17 @@
 <h1 align="center" >Hi there 👋 I'm Manh Tran </h1>
 
-- 🔭 I’m studying computer science engineer program at School of Information and Communication Techonology, Hanoi University of Science and Technology
-- 🌱 I'm currently concentrated on decentralized systems(decentralized network, consensus, layer0, layer1, layer2, oracles, decentralized storage,...), decentralized cryptography(zero knowledge proof, secure multi-party computation, fully homomorphic encryption, threshold cryptography...) and distributed systems(consensus, fault tolerance, parallelism,...)
-- 👯 Looking for an Blockchain R&D, contact me manh.tb183589@sis.hust.edu.vn
+🔭 I studied Computer Science and Engineering at the School of Information and Communication Technology, Hanoi University of Science and Technology.
 
-My interested fields of research including: Distributed Systems || Operating Systems and Computer Networks || Database || Security and Privacy || Cloud Computing
+🌱 I am currently focusing on:
+
+- **Distributed Systems**: distributed storage (GFS, HDFS, IPFS, Cassandra, TiDB, Kafka, ScyllaDB), distributed coordination (ZooKeeper, etcd), consensus algorithms (Raft, ZAB, PBFT), communication protocols (RPC, Gossip)
+- **Cloud & DevOps**: AWS (Solutions Architect Associate, Solutions Architect Professional, Security Specialty), Azure (Administrator, Solutions Architect), Kubernetes, Terraform
+- **Cryptography**: zero-knowledge proofs (PLONK, STARK, Groth16), secure multi-party computation (MPC), fully homomorphic encryption (FHE), threshold cryptography
+
+👯 I am open to Software Engineer opportunities. Feel free to reach out at: **manh.tb183589@sis.hust.edu.vn**
+
+📚 My research interests include:
+Distributed Systems · Operating Systems · Computer Networks · Databases · Security & Privacy
 ## My Skill
 ### Programming Language
 <a href="https://doc.rust-lang.org/book/" target="_blank">
